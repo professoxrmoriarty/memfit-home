@@ -64,6 +64,10 @@ Memfit AI breaks through the limitations of single paradigms by innovatively ado
 - [Yaklang](https://yaklang.com) - The underlying language powering Memfit AI
 - [SSA Analysis](https://ssa.to) - Static Single Assignment analysis platform
 
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/c9dc9f03-4724-417c-b709-90db901c7f9e" />
+
+[Memfit_AI_Architecture_Blueprint.pptx](https://github.com/user-attachments/files/34147537/Memfit_AI_Architecture_Blueprint.pptx)
+
 ---
 
 ## 中文
